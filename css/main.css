@@ -1,11 +1,11 @@
 @charset "UTF-8";
 
 html{
-    font-family: "Karla" sans-serif;
+    font-family: sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6{
-    font-family: "Oxygen";
+   font-family: sans-serif;
 }
 .clearfix:after, .row:after{
     content: ' ';
